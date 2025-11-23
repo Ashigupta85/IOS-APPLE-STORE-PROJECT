@@ -8,6 +8,7 @@ The objective of this project is to develop a Python-based console application t
 
 
 SCOPE OF THE PROJECT:
+
 This project uses the tabulate module to present product details in a clear table format and the datetime module to display the current date and time during billing. Through developing this application, I learned how to implement user signup and login systems, manage data using lists and dictionaries, and organize code using modular functions. I also gained experience building a functional shopping cart, calculating totals and GST, and generating a detailed bill. Additionally, this project helped me understand how external modules enhance user interaction and how real-world e-commerce logic can be applied in Python programs.
 
 
